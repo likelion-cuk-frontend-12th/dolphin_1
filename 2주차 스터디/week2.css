@@ -1,0 +1,47 @@
+.container_center {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+
+  background-color: beige;
+}
+.container_start {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+
+  background-color: beige;
+}
+.container_end {
+  display: flex;
+  justify-content: end;
+  padding: 10px;
+
+  background-color: beige;
+}
+.container_between {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+
+  background-color: beige;
+}
+.container_around {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+
+  background-color: beige;
+}
+.container_evenly {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+
+  background-color: beige;
+}
+.item {
+  width: 100px;
+  height: 100px;
+  background-color: blueviolet;
+}
